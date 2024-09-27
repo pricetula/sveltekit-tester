@@ -18,7 +18,7 @@
 			<div class="bg-white shadow-md rounded-lg overflow-hidden">
 				<img
 					class="w-full h-48 object-cover"
-					src="https://picsum.photos/id/237/200/300"
+					src={user.image}
 					alt={user.name}
 				/>
 				<div class="p-4">
