@@ -38,6 +38,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"lru-cache": "^11.0.1"
+		"lru-cache": "^11.0.1",
+		"lucide-svelte": "^0.446.0"
 	}
 }
